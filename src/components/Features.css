@@ -1,0 +1,9 @@
+.rowf{
+    display: flex;
+    margin-inline:200px ;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.colf{
+  width: 100px;
+}

@@ -1,0 +1,25 @@
+#tda{
+  font-family: "Playfair Display", serif;
+  font-size: 135px;
+  text-align: center;
+  font-weight: 400;
+}
+.container1{
+  margin-top: 300px;
+  width: 100%;
+
+}
+.descmain{
+    flex-direction: row;
+    margin-left: 50%;
+    padding: 10px;
+    margin-right: 200px;
+
+}
+.margindiv{
+  margin-block: 200px;
+}
+hr{
+  margin-inline: 200px
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');

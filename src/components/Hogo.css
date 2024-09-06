@@ -1,0 +1,25 @@
+.hero{
+    margin: auto;
+    width: 500px;
+    flex-direction: column;
+    display: flex;
+}
+.hero img{
+    margin-top: 100px;
+}
+.hogotxt{
+    font-size: 26px;
+    font-weight: 400px;
+    margin-left: 650px;
+}
+.hogosub{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    margin-top: -55px;
+}
+.hogocreate{
+    width: 250px;
+    margin-right: 150px;
+}

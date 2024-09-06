@@ -1,0 +1,14 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-left: -100px;
+    margin-top: -100px;
+
+
+}
+.col{
+    padding: 30px;
+    width: 250px;
+    font-family: "Noto Sans", sans-serif;
+
+}

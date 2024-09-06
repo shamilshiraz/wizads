@@ -1,0 +1,31 @@
+body{
+    background-color: #1d1d1d;
+    color: rgba(251, 246, 246, 0.766);
+    scroll-behavior: smooth;
+    cursor: none;
+    font-family: "Noto Sans", sans-serif;
+
+}
+
+
+.cursor{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    border: 2px solid rgb(248, 66, 10);
+    position: fixed;
+    top: 0;
+    left: 0;
+
+}
+.cursor2{
+    height: 2px;
+    width: 2px;
+    border-radius: 50%;
+    background-color:  orangered;
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Nanum+Myeongjo&display=swap');

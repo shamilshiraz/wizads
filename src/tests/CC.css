@@ -1,0 +1,8 @@
+.svg-wrapper {
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+.svg-wrapper:hover {
+    transform: translateX(20px) translateY(10px); /* Moves the SVG 20px to the right and 10px down */
+}

@@ -1,0 +1,80 @@
+#heada1{
+    font-family: 'Bethany elingston';
+    font-weight: 100;
+
+}
+#headb1{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 400;
+    bottom: 200px;
+
+}
+.Cmain{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Contact{
+    display: flex;
+    flex-direction: column;
+    width: 100vh;
+}
+.ContactHead{
+    width: 380px;
+    margin-left: 100px;
+    font-size: 180px;
+    text-align: right;
+    justify-content: flex-end;
+    display: flex;
+    padding-bottom: 400px;
+}
+.ContactDesc{
+    margin-top: 100px;
+}
+.ContactDesc img{
+    height: 300px;
+    margin: 30px;
+}
+.totalCont{
+    display: flex;
+    flex-direction: column;
+    margin-top: 400px;
+}
+.cLink{
+    width: 170px;
+    font-family: "Noto Sans", sans-serif;
+}
+.cLink h5{
+    font-size: 18px;
+    font-family: "Noto Sans", sans-serif;
+}
+.cLinks{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -35px;
+
+}
+#chead1{
+    font-size: 64px;
+}
+#cHead{
+    font-size: 200px;
+    text-align: right;
+    justify-content: flex-end;
+    font-weight: 100;
+    width: 432px;
+    margin-left: 20%;
+    height: 900px;
+    padding: 0;
+}
+#cHead p{
+    margin-top: 350px;
+}
+#nh1{
+    font-size: 60px;
+    font-family: "Noto Sans", sans-serif;
+}
+#nh2{
+    font-size: 50px;
+    font-family: 'Bethany elingston';
+    margin-top: -55px;
+}

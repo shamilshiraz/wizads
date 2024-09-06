@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Mocnetla';
+    src: url('/src/Fonts/Mocnetla.otf');
+}
+@font-face {
+    font-family: 'Callisten';
+    src: url('./Fonts/Callisten.ttf');
+}
+@font-face {
+    font-family: 'Delicate calligraphy';
+    src: url('./Fonts/Delicate\ Caligraphy\ Demo.ttf');
+}
+@font-face {
+    font-family: 'Bethany Elingston';
+    src: url('./Fonts/Bethany\ Elingston.otf');
+}
+@font-face {
+    font-family: 'taller rev';
+    src: url('./Fonts/taller_evolution_rev.otf');
+}
+@font-face {
+    font-family: 'rusila';
+    src: url('./Fonts/Rusillaserif-Light.ttf');
+}
+::-webkit-scrollbar{
+    display: none;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

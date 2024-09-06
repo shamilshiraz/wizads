@@ -1,0 +1,24 @@
+#logo{
+    height: 70px;
+    margin-right: 170px;
+}
+.address{
+    margin-right: 550px;
+}
+.menu{
+    text-align: right;
+}
+.menu p:hover{
+    text-decoration: underline;
+}
+.socials{
+    margin-right: 500px;
+}
+header{
+    position: fixed;
+    display: flex;
+    font-family: "Noto Sans", sans-serif;
+    padding-top: 15px;
+    font-size: 14px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
