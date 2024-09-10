@@ -32,7 +32,7 @@
     margin-left: 35%;
 }
 .graphicsMain{
- background-image: url('./landing-pic.jpg');
+ background-image: url('./public/landing-pic.jpg');
  background-position: center;
  background-repeat: no-repeat;
  margin-block: 100px
