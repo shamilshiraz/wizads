@@ -1,13 +1,15 @@
 .fmain{
     display: flex;
     margin-left: 200px;
+    margin-bottom: 30px;
 }
 .fmrows{
     display: flex;
+    margin-top: -50px;
 }
 #fmrow{
-    height: 100px;
-    width: 180px;
+    max-height: 50px;
+    width: 220px;
     margin-inline: 30px;
     font-size: 14px;
 }

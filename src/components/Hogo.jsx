@@ -14,7 +14,7 @@ function Hogo() {
   <div className="hogosub">
        <p className="hogotxt">wizads</p>
        <div className="hogocreate">
-        <h2>We create <span style={{fontFamily:'rusila'}}>different</span></h2>
+        <h2 id='heronote'>We create <span style={{fontFamily:'editors note'}}>different</span></h2>
         <p>We weave spells that sets your brand apart, sparking growth that outshines the competition.</p>
        </div>
   </div>

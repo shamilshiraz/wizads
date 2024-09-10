@@ -1,17 +1,14 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-import Analyza from './components/Curve/Analyza'
 import Grahics from './components/Graphics/Grahics'
 import Hogo from './components/Hogo'
-import CC from './tests/CC'
-import Logo from './tests/Logo'
 import { motion } from 'framer-motion'
 import Header from './components/Header/Header'
 import Description from './components/Description/Description'
 import ContactMain from './components/Contact/ContactMain'
 import Future from './components/future/Future'
-import ScrollTline from './components/Scrolls/ScrollTline'
 import { SmoothScrollHero } from './SmoothScrollHero'
+import CreativityComplex from './components/Curve/CreativityComplex'
 
 
 
@@ -43,8 +40,8 @@ function App() {
 
   const variants={
    default:{
-    x:mousePos.x-7,
-    y:mousePos.y-7
+    x:mousePos.x-7.7,
+    y:mousePos.y-7.7
    }
   }
   const variants2={
@@ -75,13 +72,13 @@ animate="default2"
 <Header/>
 <Hogo/>
 <Description/>
-<Analyza/>
-<ScrollTline/>
+<CreativityComplex/>
+{/* <ScrollTline/> */}
 <Grahics/>
 <Future/>
 <ContactMain/>
-{/* <Logo/> */}
-{/* <Test imageUrl={'./logo.png'}/> */}
+
+
 </div> 
 </div>
     </>

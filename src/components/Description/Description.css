@@ -1,19 +1,20 @@
 #tda{
   font-family: "Playfair Display", serif;
-  font-size: 135px;
+  font-size: 145px;
   text-align: center;
-  font-weight: 400;
+  font-weight: 200;
+  color: white;
 }
 .container1{
   margin-top: 300px;
   width: 100%;
-
 }
 .descmain{
     flex-direction: row;
     margin-left: 50%;
     padding: 10px;
     margin-right: 200px;
+    margin-top: -50px;
 
 }
 .margindiv{

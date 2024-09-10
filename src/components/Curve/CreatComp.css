@@ -1,0 +1,17 @@
+.createcomp{
+    margin-inline: 240px;
+    display: flex;
+    justify-content: space-between;
+    margin-block: 280px;
+}
+.cc1{
+    margin-top: 18px;
+}
+.cc2{
+    line-height: 100px;
+}
+.cc2a{
+    color: white;
+    font-size: 95px;
+    font-weight: 500;
+}

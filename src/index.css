@@ -22,6 +22,14 @@
     font-family: 'rusila';
     src: url('./Fonts/Rusillaserif-Light.ttf');
 }
+@font-face {
+    font-family: 'editors note';
+    src: url('./Fonts/EditorsNote-Extralight-iF664322be43be3.otf');
+}
+@font-face {
+    font-family: 'sohne';
+    src: url('./Fonts/TestSohne-Buch-BF663d89cd32e6a.otf');
+}
 ::-webkit-scrollbar{
     display: none;
 }
